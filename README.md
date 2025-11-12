@@ -1,4 +1,4 @@
- Aether Portal
+ Aether Portal (URL: https://aiaether.netlify.app/)
 
 A futuristic single-page landing interface built with pure HTML, CSS, and JavaScript — no frameworks or npm required.
 It features a glowing hero section with a particle animation, smooth interactions, and a dark neon aesthetic.
